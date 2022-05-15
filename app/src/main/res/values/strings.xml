@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="header">Restaurant Reservation</string>
+    <string name="input">Input details to get started</string>
+    <string name="name">Name: </string>
+    <string name="number">Mobile Number: </string>
+    <string name="group">Group Size: </string>
+    <string name="date">Date: </string>
+    <string name="time">Time: </string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="confirm">Confirmation Details (See after booking):</string>
+</resources>
